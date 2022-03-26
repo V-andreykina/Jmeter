@@ -1,3 +1,3 @@
 # Jmeter
 ----
-### Test Plans from Apache Jmeter
+### Test Plan from Apache Jmeter
